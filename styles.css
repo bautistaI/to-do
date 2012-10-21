@@ -1,0 +1,38 @@
+body{
+	background-color: #5f99ae;
+	font-family: Helvetica, Georgia, sans-serif;
+}
+
+#todoList{
+	font-size: 18px;
+	background-color: aqua;
+	padding: 35px;	
+}
+
+.todos{
+	border: 2px dotted #000;
+	margin: 0px;
+	padding: 30px 0 30px 40px;
+}
+
+
+
+li{
+	font-size: 20px;
+	color: #FFF;
+	font-style: normal;
+	padding-bottom: 10px;
+	cursor:  pointer;
+}
+
+
+
+.done{
+    text-decoration: line-through;
+    color: #b10303;
+    font-size: 24px;
+    font-style: italic;
+    cursor: pointer;
+}
+
+
